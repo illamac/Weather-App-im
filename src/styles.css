@@ -1,0 +1,44 @@
+body {
+  background-color: lightblue;
+  font-family: "Krub", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+  padding: 20px 0;
+}
+
+h2 {
+  padding: 0px;
+  margin: 0;
+}
+
+h3 {
+  margin-top: 12px;
+}
+
+.today-icon {
+  font-size: 96px;
+  text-align: center;
+}
+
+.high {
+  font-size: 24px;
+  display: inline-block;
+}
+.low {
+  font-size: 12px;
+  display: inline-block;
+}
+.five-day {
+  text-align: center;
+  background-color: lightblue;
+  padding: 5px;
+  margin: 10px;
+}
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
